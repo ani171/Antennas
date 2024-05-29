@@ -10,4 +10,4 @@ This repository explores various types of antennas used in real-time application
   * Omni-directional antenna - These antennas radiate power uniformly in all directions within a plane, typically the horizontal plane.
   * Isotropic antennas -  An idealized theoretical antenna that radiates power equally in all directions in a spherical pattern.
 
-2. Beam solid angle - The beam solid angle (\(\Omega\)) of an antenna is a crucial parameter that quantifies how the radiated power is distributed in space. It reflects the angular spread of the antenna's radiation pattern and is used to determine the directivity and gain of the antenna.
+2. Beam solid angle - The beam solid angle (Ω) of an antenna is a crucial parameter that quantifies how the radiated power is distributed in space. It reflects the angular spread of the antenna's radiation pattern and is used to determine the directivity and gain of the antenna.
