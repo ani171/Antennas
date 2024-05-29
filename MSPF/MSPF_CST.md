@@ -1,4 +1,3 @@
-`https://youtu.be/ZZ5kaidwm5M?si=Dw1-5YAjhdRrN52L`
 
 1. Select microwaves and RF opticals and antennas sub-options in that
 ![image](https://github.com/ani171/Antennas/assets/97838595/33e1faec-2d6a-44b6-b73d-9abe946d85c4)
