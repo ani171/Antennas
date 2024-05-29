@@ -21,3 +21,10 @@ This repository explores various types of antennas used in real-time application
   a. Physical aperture - This refers to the actual size or dimension of the antenna structure that interacts with the electromagnetic waves. It can be influenced by various factors depending on the antenna type. <br>
   b. Logical aperture - This refers to a theoretical surface associated with the antenna. It's chosen based on convenience for calculating the antenna's radiating properties, like radiation pattern and gain. The aperture itself isn't a physical part of the antenna.<br>
 6. Radiation resistance - Radiation resistance describes a part of the antenna's electrical resistance caused by its emission of radio waves. It depends on the antenna's geometry, size, and materials. Ideally, we want to maximize radiation resistance (Rr) and minimize loss resistance (Rl) for efficient antenna operation.
+
+## Key Reasons for Using CST in Antenna Design
+* CST (Computer Simulation Technology) software is widely used for designing antennas due to its powerful and versatile features.
+* CST provides highly accurate electromagnetic simulations using advanced algorithms and numerical techniques, ensuring precise modeling of antenna behavior.
+* CST Studio Suite includes a variety of solvers such as Time Domain, Frequency Domain, Integral Equation, and Eigenmode solvers, allowing designers to choose the most appropriate method for their specific antenna design problems.
+* CST allows for parametric studies and sensitivity analysis, helping designers understand the impact of various parameters on antenna performance. This is crucial for robust and reliable antenna designs.
+* The software offers advanced visualization and post-processing tools to analyze simulation results. Users can visualize fields, currents, and far-field radiation patterns, providing comprehensive insights into antenna performance.
