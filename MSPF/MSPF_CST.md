@@ -19,8 +19,6 @@
 ![image](https://github.com/ani171/Antennas/assets/97838595/ce33dac1-63ba-46b5-8540-499656f0618a)
 9. Creating patch
 ![image](https://github.com/ani171/Antennas/assets/97838595/bf19d860-1bb2-4a4e-b1d8-b08da45ab321) <br>
-<br>
-<br>
 10. Creating the feed-line for excitation
 ![image](https://github.com/ani171/Antennas/assets/97838595/af29a8b1-40e2-48ed-8dd5-2b7b79310574) <br>
 ![image](https://github.com/ani171/Antennas/assets/97838595/f7187856-26f4-4273-aa0f-b4d931a8c6b1) <br>
