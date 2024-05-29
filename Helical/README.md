@@ -19,7 +19,8 @@
 ![image](https://github.com/ani171/Antennas/assets/97838595/8fec4b03-e6c1-47cd-a5f3-a26711309782) <br>
 
 ### Normal mode of antenna
-![image](https://github.com/ani171/Antennas/assets/97838595/681677a0-e00c-46f3-8372-87a1c5a0f3fb)
 * A helical antenna operates in the normal mode if its dimensions are small compared to the wavelength, that is D  λ and NL < λ.
 * The radiation of a helical antenna operating in the normal mode is minimum along the axis of the helix and is maximum in a plane normal to the axis
 * It is observed that if we choose C = √2Sλ the helical antenna radiates circularly polarized waves
+
+![image](https://github.com/ani171/Antennas/assets/97838595/681677a0-e00c-46f3-8372-87a1c5a0f3fb)
